@@ -1,0 +1,3 @@
+*.o
+tinyshell
+.DS_Store

@@ -1,3 +1,4 @@
-*.o
 tinyshell
+*.o
+*.dSYM/
 .DS_Store
